@@ -1,0 +1,27 @@
+tr:nth-child(1){
+    background-color: whitesmoke;
+}
+tr:nth-child(2){
+    background-color: deepskyblue;
+}
+tr:nth-child(3){
+    background-color: grey;
+}
+tr:nth-child(4){
+    background-color: darkolivegreen;
+}
+tr:nth-child(5){
+    background-color: orange;
+}
+tr:nth-child(6){
+    background-color: lightpink;
+}
+tr:nth-child(7){
+    background-color: lightgray;
+}
+tr:nth-child(8){
+    background-color: darkgrey;
+}
+tr:nth-child(9){
+    background-color: grey;
+}
